@@ -36,6 +36,8 @@ This is a simple library management system built using Python and Tkinter for th
 5. **Run the Script:**
    ```bash
    python main.py
+## Screenshots
+
 ## Contributions
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the functionality or add new features.
 
